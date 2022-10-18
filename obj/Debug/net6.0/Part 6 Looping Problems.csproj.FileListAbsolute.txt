@@ -1,0 +1,15 @@
+D:\ICS4U\Part 6 Looping Problems\bin\Debug\net6.0\Part 6 Looping Problems.exe
+D:\ICS4U\Part 6 Looping Problems\bin\Debug\net6.0\Part 6 Looping Problems.deps.json
+D:\ICS4U\Part 6 Looping Problems\bin\Debug\net6.0\Part 6 Looping Problems.runtimeconfig.json
+D:\ICS4U\Part 6 Looping Problems\bin\Debug\net6.0\Part 6 Looping Problems.dll
+D:\ICS4U\Part 6 Looping Problems\bin\Debug\net6.0\Part 6 Looping Problems.pdb
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\Part 6 Looping Problems.csproj.AssemblyReference.cache
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\Part 6 Looping Problems.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\Part 6 Looping Problems.AssemblyInfoInputs.cache
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\Part 6 Looping Problems.AssemblyInfo.cs
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\Part 6 Looping Problems.csproj.CoreCompileInputs.cache
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\Part 6 Looping Problems.dll
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\refint\Part 6 Looping Problems.dll
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\Part 6 Looping Problems.pdb
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\Part 6 Looping Problems.genruntimeconfig.cache
+D:\ICS4U\Part 6 Looping Problems\obj\Debug\net6.0\ref\Part 6 Looping Problems.dll

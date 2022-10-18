@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Part 6 Looping Problems/1.0.0": {
+        "runtime": {
+          "Part 6 Looping Problems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Part 6 Looping Problems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
